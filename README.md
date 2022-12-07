@@ -34,6 +34,7 @@ NOTE: in section with comment “# Run this cell to train the model from scratch
     4.2. Tri was able run it faster by paying for additional computes
 
 Results:
+
 <img width="573" alt="three" src="https://user-images.githubusercontent.com/38345952/206091634-20fa6254-ca62-422e-bd09-dbbd9e6c8d50.png">
 
     
