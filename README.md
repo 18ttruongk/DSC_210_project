@@ -20,9 +20,9 @@ Make sure you run on Google Colab!!
 3.1 replace file directory to match yours for excel spreadsheet and for image.open (2nd and 4th block of the code)
 4. rerun with different list entries to see different clustered images
 One potential result for the variable "hold":
-![Alt text](one.jpg?raw=true "Title")
+<img width="575" alt="one" src="https://user-images.githubusercontent.com/38345952/206091585-a90507a5-bdc4-48b4-9c12-419f37bc4e39.png">
 And for the variable "a":
-![Alt text](two.jpg?raw=true "Title")
+<img width="554" alt="two" src="https://user-images.githubusercontent.com/38345952/206091617-c57d140f-e0e8-445e-b70f-b60dae510a6b.png">
 ## ResNet (under the image_segmentation_project subfolder on GitHub):
 1. If downloading folder from Github, clone it and then upload image_segmentation_project
 2. Move idd20kll folder into image segmentation project folder
@@ -33,5 +33,6 @@ NOTE: in section with comment “# Run this cell to train the model from scratch
     4.2. Tri was able run it faster by paying for additional computes
 
 Results:
-![Alt text](three.jpg?raw=true "Title")
+<img width="573" alt="three" src="https://user-images.githubusercontent.com/38345952/206091634-20fa6254-ca62-422e-bd09-dbbd9e6c8d50.png">
+
     
