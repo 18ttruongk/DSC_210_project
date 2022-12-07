@@ -23,6 +23,7 @@ One potential result for the variable "hold":
 <img width="575" alt="one" src="https://user-images.githubusercontent.com/38345952/206091585-a90507a5-bdc4-48b4-9c12-419f37bc4e39.png">
 And for the variable "a":
 <img width="554" alt="two" src="https://user-images.githubusercontent.com/38345952/206091617-c57d140f-e0e8-445e-b70f-b60dae510a6b.png">
+
 ## ResNet (under the image_segmentation_project subfolder on GitHub):
 1. If downloading folder from Github, clone it and then upload image_segmentation_project
 2. Move idd20kll folder into image segmentation project folder
